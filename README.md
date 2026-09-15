@@ -8,6 +8,6 @@ Hi there 👋. I’m Devnos, a skilled and results-driven Android Developer with
 
 ## Get in touch :coffee:
 
-- [Personal Blog](https://sagarviradiya.dev)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- [Twitter](https://twitter.com/viradiya_sagar)
+- [Personal Blog](#)
+- [LinkedIn](#)
+- [Twitter](#)
